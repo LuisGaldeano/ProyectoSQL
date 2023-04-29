@@ -1,7 +1,7 @@
 # ProyectoSQL
 ---
 
-
+![Blockbuster](./img/Blockbuster.jpg)
 
 Este proyecto es un trabajo que nos han mandado en el bootcamp de Data Analytics en el que tenemos que realizar un análisis sobre 10 cuestiones a nuestra elección acerca de una base de datos de un videoclub
 
