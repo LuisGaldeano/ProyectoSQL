@@ -25,8 +25,8 @@ El proyecto lo he dividido en 4 checkpoints.
       
  Para realizar cada uno de los apartados, crearé un archivo Jupyter Notebook por cada uno de ellos, en el que iré subiendo los pasos que doy y las explicaciones necesarias para comprender y seguir todo el proceso.
    
- [2. Explorar y limpiar los datos](./Step2_Cleaning_DB.ipynb)
+ [2. Explorar y limpiar los datos](./src/Step2_Cleaning_DB.ipynb)
    
- [3. Construir la Base de Datos](./Step3_Create_DataBase.ipynb)
-  
- [4. Análisis de datos](./Step4_Analysis_of_data.ipynb)
+ [3. Construir la Base de Datos](./src/Step3_Create_DataBase.ipynb)
+   
+ [4. Análisis de datos](./src/Step4_Analysis_of_data.ipynb)
